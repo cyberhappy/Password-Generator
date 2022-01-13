@@ -1,5 +1,4 @@
 # Password-Generator
-#### this script creates a secure passwords that are impossible to crack 
 A strong password is one that is difficult to guess and easy to remember. Today it seems like the requirements for creating a strong password are becoming more and more demanding. But, there’s a reason for it.
 ## Strong Password Best Practices
 1. Do not use sequential numbers or letters <br/>
