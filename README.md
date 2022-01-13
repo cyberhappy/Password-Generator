@@ -16,8 +16,8 @@ Substitute letters with numbers or symbols to make it difficult to guess the pas
  Do not store your passwords in a document on your computer. Make sure you’re using the password manager tool provided to you by the IT/support team to store all professional and personal passwords.
 
 ### How to use the script
-cd Password-Generator
-ls
-chmod +x PasswordGenerator.sh
-./PasswordGenerator.sh
+cd Password-Generator <br/>
+ls <br/>
+chmod +x PasswordGenerator.sh <br/>
+./PasswordGenerator.sh <br/>
 
